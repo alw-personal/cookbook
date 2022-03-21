@@ -5,7 +5,7 @@ permalink: /miso_salad_dressing/
 ---
 # Miso salad dressing
 ## Ingredients
-- [Miso tare](/ramen/miso_tare)
+- [Miso tare]({{ site.baseurl }}/ramen/miso_tare)
 - Sesame oil
 - Rice vinegar
 - Soy sauce
