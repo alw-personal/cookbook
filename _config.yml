@@ -25,7 +25,7 @@ baseurl: "/cookbook"
 url: "https://alw-personal.github.io"
 
 # Build settings
-theme: just-the-docs
+# theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 color_scheme: alw_cookbook
 plugins:
