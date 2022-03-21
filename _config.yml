@@ -21,8 +21,8 @@
 title: A+Friends Recipes
 email: alexlihengwang@gmail.com
 description: ""
-baseurl: "https://alw-personal.github.io/cookbook"
-url: "/"
+baseurl: "/cookbook"
+url: "https://alw-personal.github.io"
 
 # Build settings
 remote_theme: just-the-docs/just-the-docs
