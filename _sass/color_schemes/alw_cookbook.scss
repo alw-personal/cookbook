@@ -3,8 +3,13 @@
 //
    
 $link-color: #107EA3;
-
-
-.site-header, h1 {
-	font-family: inter;
-}
+$nav-width: 264px;
+$content-width: 1024px;
+$media-queries: (
+  xs: 320px,
+  sm: 500px,
+  md: 3 * $nav-width,
+  lg: $content-width + $nav-width,
+  xl: 1400px
+);
+$search-results-width: $content-width - $nav-width;

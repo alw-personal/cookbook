@@ -6,7 +6,7 @@ parent: Ramen
 ---
 
 # Ajitama
-
+---
 ## Ingredients
 - 5 eggs
 - 500 ml water

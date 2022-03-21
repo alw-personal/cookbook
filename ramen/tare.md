@@ -6,7 +6,7 @@ parent: Ramen
 ---
 
 # Miso tare
-
+---
 ## Ingredients
 - 3 g ginger grated
 - 3 g garlic grated
