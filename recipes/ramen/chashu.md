@@ -14,7 +14,7 @@ parent: Ramen
 - 3 cloves garlic
 - 1 cup water
 
-## Steps
+## Instructions
 1. Roll up pork shoulder and tie with twine
 1. Add to pot, with water, soy, mirin, brown sugar, garlic
 1. Cover and simmer for 45 minutes

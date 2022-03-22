@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: A+ Cookbook
+title: A&L Cookbook
 email: alexlihengwang@gmail.com
 description: ""
 baseurl: "/cookbook"
@@ -27,7 +27,7 @@ url: "https://alw-personal.github.io"
 # Build settings
 # theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
-color_scheme: alw_cookbook
+color_scheme: al_cookbook
 plugins:
   - jekyll-feed
 

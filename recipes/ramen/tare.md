@@ -19,4 +19,4 @@ parent: Ramen
 - 1 tsp shichimi togarashi
 
 ## Steps
-1. Combine in pot and heat until alcohol smell is gone
+1. Combine in pot, heat and whisk until alcohol smell is gone

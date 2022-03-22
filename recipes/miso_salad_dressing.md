@@ -12,5 +12,5 @@ permalink: /miso_salad_dressing
 - Soy sauce
 - Vegetable oil
 
-## Steps
+## Instructions
 1. Whisk together

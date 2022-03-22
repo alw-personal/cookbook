@@ -11,5 +11,5 @@ parent: Ramen
 - Animal fat
 - Aromatics
 
-## Steps
+## Instructions
 1. Simmer aromatics in fat and strain

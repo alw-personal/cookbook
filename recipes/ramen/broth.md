@@ -15,7 +15,11 @@ parent: Ramen
 - 3 green onions
 - 1 apple
 
-## Steps
+## Equipment
+- Instant Pot
+- Immersion blender
+
+## Instructions
 1. Soak pork neck bones over night
 1. Rinse and scrub
 1. Boil in stock pot until no more brown scum
