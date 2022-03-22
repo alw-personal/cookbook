@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Miso salad dressing
-permalink: /miso_salad_dressing/
+permalink: /miso_salad_dressing
 ---
 # Miso salad dressing
 ---
