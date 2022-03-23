@@ -3,6 +3,7 @@ layout: page
 title: Aroma oil
 permalink: /ramen/aroma_oil
 parent: Ramen
+categories: [Japanese]
 ---
 
 # Aroma oil

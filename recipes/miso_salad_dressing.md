@@ -2,6 +2,7 @@
 layout: page
 title: Miso salad dressing
 permalink: /miso_salad_dressing
+categories: [Japanese, Sauces]
 ---
 # Miso salad dressing
 ---

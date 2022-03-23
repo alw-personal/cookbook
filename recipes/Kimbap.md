@@ -2,6 +2,7 @@
 layout: page
 title: Kimbap
 permalink: /kimbap
+categories: [Korean, Mains]
 ---
 # Kimbap
 ---

@@ -3,6 +3,7 @@ layout: page
 title: Tonkotsu broth
 permalink: /ramen/broth
 parent: Ramen
+categories: [Japanese]
 ---
 
 # Tonkotsu

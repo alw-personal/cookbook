@@ -3,6 +3,7 @@ layout: page
 title: Ajitama
 permalink: /ramen/ajitama
 parent: Ramen
+categories: [Japanese]
 ---
 
 # Ajitama

@@ -3,6 +3,7 @@ layout: page
 title: Miso tare
 permalink: /ramen/miso_tare
 parent: Ramen
+categories: [Japanese, Sauces]
 ---
 
 # Miso tare

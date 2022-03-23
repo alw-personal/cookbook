@@ -31,6 +31,8 @@ color_scheme: al_cookbook
 plugins:
   - jekyll-feed
 
+category-list: [Mains, Chinese, Cantonese, Shanghainese, Japanese, Korean, Noodles, Baking, Sauces]
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
