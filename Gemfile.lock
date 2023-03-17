@@ -11,6 +11,8 @@ GEM
     eventmachine (1.2.7)
     ffi (1.15.5)
     forwardable-extended (2.6.0)
+    hitchens-theme (0.8.0)
+      jekyll (~> 4.0)
     http_parser.rb (0.8.0)
     i18n (1.10.0)
       concurrent-ruby (~> 1.0)
@@ -68,9 +70,11 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
+  arm64-darwin-22
   x86_64-darwin-20
 
 DEPENDENCIES
+  hitchens-theme
   jekyll (~> 4.1.1)
   jekyll-feed (~> 0.12)
   just-the-docs
@@ -80,4 +84,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.2.3
+   2.4.8
