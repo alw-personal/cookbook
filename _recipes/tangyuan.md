@@ -2,8 +2,11 @@
 layout: page
 title: Glutinous rice balls / 汤圆
 permalink: /glut_rice_balls
-categories: [Chinese]
+categories: [Chinese, Desserts]
 ---
+
+![]({{ site.baseurl }}/recipes/images/tangyuan.JPG)
+
 
 ## Ingredients
 - glutinous rice flour

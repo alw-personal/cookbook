@@ -20,11 +20,16 @@ layout: default
 
 <main class="home" id="main" role="main" aria-label="Content">
 
+    {% for cat in site.category-list %}
+    <h2> {{ cat }} </h2>
+
     <ul class="post-list">
       {% for post in site.recipes %}
-        {% include post-list-item.html %}
+        {% if post.categories contains cat %}
+            {% include post-list-item.html %}
+        {% endif %}
       {% endfor %}
     </ul>
     
-
+    {% endfor %}  <!-- cat -->
 </main>

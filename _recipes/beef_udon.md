@@ -2,7 +2,7 @@
 layout: page
 title: Chicken udon
 permalink: /chicken_udon
-categories: [Japanese, Mains, Noodles]
+categories: [Japanese, Noodles]
 ---
 
 ![]({{ site.baseurl }}/recipes/images/udon.JPG)

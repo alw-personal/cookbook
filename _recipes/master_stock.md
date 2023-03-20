@@ -2,7 +2,7 @@
 layout: page
 title: Master stock / 卤味
 permalink: /master_stock
-categories: [Favorites, Cantonese, Mains,Chinese]
+categories: [Favorites, Cantonese]
 ---
 
 

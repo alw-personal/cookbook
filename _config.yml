@@ -5,7 +5,7 @@ baseurl: "/cookbook"
 url: "https://alw-personal.github.io"
 
 # Build settings
-# theme: hitchens-theme
+theme: hitchens-theme
 remote_theme: patdryburgh/hitchens
 hide_credits: true
 hide_search: true
@@ -17,7 +17,7 @@ collections:
 # plugins:
 #   - jekyll-feed
 
-# category-list: [Favorites, Mains, Chinese, Cantonese, Shanghainese, Japanese, Korean, Noodles, Baking, Sauces]
+category-list: [Chinese, Cantonese, Shanghainese, Japanese, Korean, Noodles, Baking, Sauces, Desserts]
 
 # Exclude from processing.
 # The following items will not be processed, by default.

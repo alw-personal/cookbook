@@ -2,8 +2,15 @@
 layout: page
 title: Kimbap
 permalink: /kimbap
-categories: [Favorites, Korean, Mains]
+categories: [Favorites, Korean]
 ---
+
+
+![]({{ site.baseurl }}/recipes/images/kimbap1.JPG)
+
+![]({{ site.baseurl }}/recipes/images/kimbap2.JPG)
+
+
 ## Ingredients
 + Ground beef mixture
 	* Ground beef

@@ -2,7 +2,7 @@
 layout: page
 title: Fire chicken (Buldak)
 permalink: /fire_chicken
-categories: [Favorites, Korean,Mains]
+categories: [Favorites, Korean]
 ---
 
 ![]({{ site.baseurl }}/recipes/images/220915-buldak.JPG)

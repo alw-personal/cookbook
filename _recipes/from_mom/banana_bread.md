@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Banana bread
-parent: From Mom
-permalink: mom/banana_bread
+title: Banana/Zucchini bread
+permalink: banana_bread
 categories: [Baking]
 ---
+
+![]({{ site.baseurl }}/recipes/images/zucchini_bread.JPG)
 
 ## Ingredients
 - 2 cups flour

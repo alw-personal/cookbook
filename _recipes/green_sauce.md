@@ -5,6 +5,9 @@ permalink: /green_sauce
 categories: [Favorites, Sauces]
 ---
 
+![]({{ site.baseurl }}/recipes/images/green_sauce.jpg)
+
+
 ## Ingredients
 - 1 bunch cilantro
 - 1 bunch green onions

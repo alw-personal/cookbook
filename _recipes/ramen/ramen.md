@@ -3,7 +3,7 @@ layout: page
 title: Ramen
 permalink: /ramen/
 has_children: true
-categories: [Mains, Japanese, Noodles]
+categories: [Japanese, Noodles]
 ---
 
 ![]({{ site.baseurl }}/recipes/images/210304-ramen.jpg)

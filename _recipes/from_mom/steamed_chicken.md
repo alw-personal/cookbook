@@ -3,7 +3,7 @@ layout: page
 title: Steamed chicken / 冬菇蒸鸡
 parent: From Mom
 permalink: mom/steamed_chicken
-categories: [Chinese, Cantonese, Mains]
+categories: [Cantonese]
 ---
 
 ## Ingredients
