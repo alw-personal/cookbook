@@ -5,7 +5,7 @@ baseurl: "/cookbook"
 url: "https://alw-personal.github.io"
 
 # Build settings
-theme: hitchens-theme
+# theme: hitchens-theme
 remote_theme: patdryburgh/hitchens
 hide_credits: true
 hide_search: true
