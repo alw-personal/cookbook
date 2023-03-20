@@ -16,15 +16,9 @@ layout: default
 {% endif %}
 </header>
 
-<main class="home" id="main" role="main" aria-label="Content">
+<div class="divided home-divider"></div>
 
-  <h1 class="content-title divided">
-    {% if site.paginate and site.paginate_path and paginator.page > 1 %}
-      Page {{ paginator.page }}
-    {% else %}
-      Recipes
-    {% endif %}
-  </h1>
+<main class="home" id="main" role="main" aria-label="Content">
 
     <ul class="post-list">
       {% for post in site.recipes %}

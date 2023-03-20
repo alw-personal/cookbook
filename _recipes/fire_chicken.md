@@ -5,7 +5,7 @@ permalink: /fire_chicken
 categories: [Favorites, Korean,Mains]
 ---
 
-![]({{ site.baseurl }}/recipes/images/220915-buldak.jpg)
+![]({{ site.baseurl }}/recipes/images/220915-buldak.JPG)
 
 ## Ingredients
 

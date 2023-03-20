@@ -24,3 +24,7 @@ categories: [Favorites, Cantonese, Mains,Chinese]
 1. Toast spices, ginger, green onions
 2. Add liquid ingredients and rock sugar
 3. Simmer for 30 minutes
+
+## Notes
+- 萝卜 parboil/braise 15/20
+- Chicken thighs parboil/braise 5/20

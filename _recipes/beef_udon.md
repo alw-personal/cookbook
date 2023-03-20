@@ -5,6 +5,8 @@ permalink: /chicken_udon
 categories: [Japanese, Mains, Noodles]
 ---
 
+![]({{ site.baseurl }}/recipes/images/udon.JPG)
+
 ## Ingredients
 
 - For udon broth

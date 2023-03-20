@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chashu
+title: Japanese Chashu
 permalink: /ramen/chashu
 parent: Ramen
 categories: [Japanese]
