@@ -5,7 +5,7 @@ permalink: /napa_mille_feuille
 categories: [Favorites, Japanese, Chinese]
 ---
 
-![]({{ site.baseurl }}/recipes/images/napa_pork.JPG)
+![]({{ site.baseurl }}/recipes/images/napa_cabbage.JPG)
 
 
 ## Ingredients

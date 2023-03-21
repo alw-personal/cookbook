@@ -5,6 +5,8 @@ permalink: /master_stock
 categories: [Favorites, Cantonese]
 ---
 
+![]({{ site.baseurl }}/recipes/images/master_stock.JPG)
+
 
 ## Ingredients
 - 1 green onion

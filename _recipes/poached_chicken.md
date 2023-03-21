@@ -5,7 +5,7 @@ permalink: /poached_chicken
 categories: [Favorites, Chinese]
 ---
 
-![]({{ site.baseurl }}/recipes/images/steamed_chicken.JPG)
+![]({{ site.baseurl }}/recipes/images/steamed_chicken.jpg)
 
 
 ## Ingredients

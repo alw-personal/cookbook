@@ -5,7 +5,7 @@ permalink: /glut_rice_balls
 categories: [Chinese, Desserts]
 ---
 
-![]({{ site.baseurl }}/recipes/images/tangyuan.JPG)
+![]({{ site.baseurl }}/recipes/images/tangyuan.jpg)
 
 
 ## Ingredients

@@ -5,7 +5,7 @@ permalink: banana_bread
 categories: [Baking]
 ---
 
-![]({{ site.baseurl }}/recipes/images/zucchini_bread.JPG)
+![]({{ site.baseurl }}/recipes/images/zucchini_bread.jpg)
 
 ## Ingredients
 - 2 cups flour
