@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: single
 title: Ajitama
-permalink: /ramen/ajitama
-parent: Ramen
-categories: [Japanese]
+classes: recipe-page
+categories: [Japanese,Eggs,Ramen]
+header:
+    teaser: /recipes/images/210304-ramen.jpg
 ---
 
 ## Ingredients

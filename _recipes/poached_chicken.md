@@ -1,12 +1,13 @@
 ---
-layout: page
+layout: single
 title: Poached chicken with ginger scallion sauce
-permalink: /poached_chicken
-categories: [Favorites, Chinese]
+classes: recipe-page
+categories: [Chicken]
+header:
+    teaser: /recipes/images/steamed_chicken.JPG
 ---
 
 ![]({{ site.baseurl }}/recipes/images/steamed_chicken.jpg)
-
 
 ## Ingredients
 - Chicken drumsticks

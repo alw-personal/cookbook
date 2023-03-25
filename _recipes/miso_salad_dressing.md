@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: single
 title: Miso salad dressing
-permalink: /miso_salad_dressing
-categories: [Japanese, Sauces]
+categories: [Japanese,Sauces]
+classes: recipe-page
 ---
 
 ## Ingredients

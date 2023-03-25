@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: single
 title: Oatmeal + raisin cookies
-parent: From Mom
-permalink: mom/oatmeal_raisin
 categories: [Baking]
+classes: recipe-page
 ---
 
 ## Ingredients

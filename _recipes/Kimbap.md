@@ -1,15 +1,13 @@
 ---
-layout: page
+layout: single
 title: Kimbap
-permalink: /kimbap
-categories: [Favorites, Korean]
+categories: [Favorites,Korean]
+classes: recipe-page
+header:
+    teaser: /recipes/images/kimbap2.JPG
 ---
 
-
-![]({{ site.baseurl }}/recipes/images/kimbap1.jpg)
-
 ![]({{ site.baseurl }}/recipes/images/kimbap2.jpg)
-
 
 ## Ingredients
 + Ground beef mixture

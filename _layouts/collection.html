@@ -1,0 +1,30 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+
+{% if entries_layout == "grid" %}
+    {% assign entries = site[page.collection] %}
+
+    {% for my_doc in entries %}
+    {% for category in my_doc.categories %}
+
+    {% capture my_categories %}{% if my_categories %}{{- my_categories -}},{{- category -}}{% else %}{{- category -}}{% endif %}{% endcapture %}
+    {% endfor %}
+    {% endfor %}
+
+    {% assign my_categories = my_categories | split: "," | uniq %}
+
+    <div id="filterPostsButtonContainer">
+        {% for cat in my_categories %}
+            <button class="btn" onclick="toggle_category('{{ cat | slugify }}');toggleActiveButton(this);"> {{ cat }}</button>
+        {% endfor %}
+      </div>
+{% endif %}
+
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
+</div>

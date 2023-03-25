@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: single
 title: Steamed chicken / 冬菇蒸鸡
-parent: From Mom
-permalink: mom/steamed_chicken
-categories: [Cantonese]
+categories: [Cantonese,Chinese,Chicken]
+classes: recipe-page
 ---
 
 ## Ingredients

@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: single
 title: Glutinous rice balls / 汤圆
-permalink: /glut_rice_balls
-categories: [Chinese, Desserts]
+categories: [Chinese,Desserts]
+classes: recipe-page
 ---
 
 ![]({{ site.baseurl }}/recipes/images/tangyuan.jpg)

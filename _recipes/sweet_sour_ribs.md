@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: single
 title: Sweet and sour ribs / 糖醋排骨
-parent: From Mom
-permalink: mom/vinegar_ribs
-categories: [Favorites, Shanghainese]
+categories: [Favorites,Shanghainese,Chinese,Pork]
+classes: recipe-page
 ---
 
 ## Ingredients

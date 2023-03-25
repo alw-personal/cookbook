@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: single
 title: Braised pork with mei cai / 梅菜猪肉
-permalink: /meicai
-categories: [Favorites, Chinese]
+categories: [Favorites,Chinese,Pork]
+classes: recipe-page
 ---
 
 ## Ingredients

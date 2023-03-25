@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: single
 title: Char siu / 叉烧
-parent: From Mom
-permalink: mom/char_siu
-categories: [Cantonese]
+categories: [Cantonese,Chinese,Pork]
+classes: recipe-page
+header:
+    teaser: /recipes/images/charsiu.jpg
 ---
 
 ![]({{ site.baseurl }}/recipes/images/charsiu.JPG)

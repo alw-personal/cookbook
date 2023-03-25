@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: single
 title: Napa cabbage and pork / 千层白菜猪肉锅
-permalink: /napa_mille_feuille
-categories: [Favorites, Japanese, Chinese]
+categories: [Favorites,Japanese,Chinese,Pork]
+classes: recipe-page
+header:
+    teaser: /recipes/images/napa_cabbage.JPG
 ---
 
 ![]({{ site.baseurl }}/recipes/images/napa_cabbage.JPG)

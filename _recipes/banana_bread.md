@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: single
 title: Banana/Zucchini bread
-permalink: banana_bread
 categories: [Baking]
+classes: recipe-page
+header:
+    teaser: /recipes/images/zucchini_bread.jpg
 ---
 
 ![]({{ site.baseurl }}/recipes/images/zucchini_bread.jpg)

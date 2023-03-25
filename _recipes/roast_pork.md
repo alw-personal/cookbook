@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: single
 title: Roast pork / 烧肉
-parent: From Mom
-permalink: mom/roast_pork
-categories: [Cantonese]
+categories: [Cantonese,Chinese,Pork]
+classes: recipe-page
 ---
 
 ## Ingredients

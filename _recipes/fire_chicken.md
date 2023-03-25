@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: single
 title: Fire chicken (Buldak)
-permalink: /fire_chicken
-categories: [Favorites, Korean]
+categories: [Favorites,Korean,Chicken]
+classes: recipe-page
+header:
+    teaser: /recipes/images/220915-buldak.JPG
 ---
 
 ![]({{ site.baseurl }}/recipes/images/220915-buldak.JPG)

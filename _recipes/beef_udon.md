@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: single
 title: Chicken udon
-permalink: /chicken_udon
-categories: [Japanese, Noodles]
+categories: [Japanese,Noodles,Chicken]
+classes: recipe-page
+header:
+    teaser: /recipes/images/udon.JPG
 ---
 
 ![]({{ site.baseurl }}/recipes/images/udon.JPG)

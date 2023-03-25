@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: single
 title: Green Sauce
-permalink: /green_sauce
-categories: [Favorites, Sauces]
+categories: [Favorites,Sauces]
+classes: recipe-page
 ---
 
 ![]({{ site.baseurl }}/recipes/images/green_sauce.jpg)

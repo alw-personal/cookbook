@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: single
 title: Miso tare
-permalink: /ramen/miso_tare
-parent: Ramen
-categories: [Japanese, Sauces]
+categories: [Japanese,Sauces,Ramen]
+classes: recipe-page
 ---
 
 ## Ingredients

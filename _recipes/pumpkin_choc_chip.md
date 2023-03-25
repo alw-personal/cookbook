@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: single
 title: Pumpkin seed + chocolate chip cookies
-parent: From Mom
-permalink: mom/pumpkin_choc_chip_cookies
 categories: [Baking]
+classes: recipe-page
 ---
 
 ## Ingredients

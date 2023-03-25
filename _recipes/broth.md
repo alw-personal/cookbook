@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: single
 title: Tonkotsu broth
-permalink: /ramen/broth
-parent: Ramen
-categories: [Japanese]
+categories: [Japanese,Ramen]
+classes: recipe-page
+header:
+    teaser: /recipes/images/210318-ramen.jpg
 ---
 
 ## Ingredients

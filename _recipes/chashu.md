@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: single
 title: Japanese Chashu
-permalink: /ramen/chashu
-parent: Ramen
-categories: [Japanese]
+categories: [Japanese,Ramen,Pork]
+classes: recipe-page
+header:
+    teaser: /recipes/images/210318-ramen.jpg
 ---
 
 ## Ingredients

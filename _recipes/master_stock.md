@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: single
 title: Master stock / 卤味
-permalink: /master_stock
-categories: [Favorites, Cantonese]
+categories: [Favorites,Cantonese,Chinese,Pork,Chicken,Eggs]
+classes: recipe-page
+header:
+    teaser: /recipes/images/master_stock.JPG
 ---
 
 ![]({{ site.baseurl }}/recipes/images/master_stock.JPG)

@@ -1,9 +1,8 @@
 ---
-layout: page
-title: Aroma oil
-permalink: /ramen/aroma_oil
-parent: Ramen
-categories: [Japanese]
+layout: single
+title: Ramen aroma oil
+categories: [Japanese,Ramen]
+classes: recipe-page
 ---
 
 ## Ingredients
