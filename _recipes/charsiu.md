@@ -4,7 +4,7 @@ title: Char siu / 叉烧
 categories: [Cantonese,Chinese,Pork]
 classes: recipe-page
 header:
-    teaser: /recipes/images/charsiu.jpg
+    teaser: /recipes/images/charsiu.JPG
 ---
 
 ![]({{ site.baseurl }}/recipes/images/charsiu.JPG)

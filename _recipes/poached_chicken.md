@@ -4,7 +4,7 @@ title: Poached chicken with ginger scallion sauce
 classes: recipe-page
 categories: [Chicken]
 header:
-    teaser: /recipes/images/steamed_chicken.JPG
+    teaser: /recipes/images/steamed_chicken.jpg
 ---
 
 ![]({{ site.baseurl }}/recipes/images/steamed_chicken.jpg)

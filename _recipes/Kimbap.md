@@ -4,7 +4,7 @@ title: Kimbap
 categories: [Favorites,Korean]
 classes: recipe-page
 header:
-    teaser: /recipes/images/kimbap2.JPG
+    teaser: /recipes/images/kimbap2.jpg
 ---
 
 ![]({{ site.baseurl }}/recipes/images/kimbap2.jpg)
