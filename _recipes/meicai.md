@@ -3,7 +3,11 @@ layout: single
 title: Braised pork with mei cai / 梅菜猪肉
 categories: [Favorites,Chinese,Pork]
 classes: recipe-page
+header:
+    teaser: /recipes/images/meicai.JPG
 ---
+
+![]({{ site.baseurl }}/recipes/images/meicai.JPG)
 
 ## Ingredients
 - 3 lb pork shoulder butt roast

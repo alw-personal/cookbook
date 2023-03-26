@@ -7,7 +7,7 @@ locale                   : "en-US"
 title                    : "Alex & Lucy's Cookbook"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "A&L's Cookbook"
+name                     : "Alex & Lucy's Cookbook"
 description              : "Recipes from family, friends, and the internet"
 baseurl: "/cookbook"
 url: "https://alw-personal.github.io"

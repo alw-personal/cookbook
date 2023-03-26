@@ -4,9 +4,10 @@ title: Master stock / 卤味
 categories: [Favorites,Cantonese,Chinese,Pork,Chicken,Eggs]
 classes: recipe-page
 header:
-    teaser: /recipes/images/master_stock.JPG
+    teaser: /recipes/images/master_stock_2.JPG
 ---
 
+![]({{ site.baseurl }}/recipes/images/master_stock_2.JPG)
 ![]({{ site.baseurl }}/recipes/images/master_stock.JPG)
 
 
