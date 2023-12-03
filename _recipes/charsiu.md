@@ -17,3 +17,6 @@ header:
 ## Steps
 - Marinate for 4 hours
 - Roast at 220c for 20 minutes each side
+
+## Notes
+- Can substitute chicken
